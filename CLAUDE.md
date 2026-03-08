@@ -22,3 +22,13 @@ The source implementation lives in a private repo (`badm554-bot`). This repo pub
 ## When Editing
 
 Changes to the spec should reflect the actual `badm554-bot` architecture. If the source system evolves (new features, changed patterns), update `AGENT-PROMPT.md` and `CUSTOMIZATION.md` to match. Keep reference files in sync with the schema and patterns described in the spec.
+
+## Session Log
+
+### 2026-03-07
+- Created repo: Full architecture spec extracted from `badm554-bot` (WhatsApp AI teaching assistant)
+- Files: AGENT-PROMPT.md (complete build spec), CUSTOMIZATION.md, 5 reference files (schema, env, SOUL.md template, drip campaign example, guardrails topics)
+- Initial mistake: first version was based on wrong repo (`badm554-survey-bot`). Trashed and rebuilt from correct source.
+- Added contributors (Keshav Dalmia, Ash Castelino)
+- Published to github.com/vishalsachdev/illiniclaw
+- Next: Have someone test the spec end-to-end (feed AGENT-PROMPT.md to an AI agent, verify it builds a working system)
