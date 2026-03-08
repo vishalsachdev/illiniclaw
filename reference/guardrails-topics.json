@@ -1,0 +1,36 @@
+{
+  "_comment": "Course topic keywords for the off-topic filter in StudentGuardrails.js. Update this list whenever you add new content (drip campaigns, knowledge base files). Messages containing these keywords pass through; messages without them get a friendly redirect.",
+  "example_database_management_course": [
+    "sql", "database", "query", "table", "column", "row", "record",
+    "join", "inner join", "outer join", "left join", "right join", "cross join",
+    "self join", "cartesian product",
+    "select", "insert", "update", "delete", "create", "alter", "drop",
+    "where", "group by", "having", "order by", "limit", "offset",
+    "aggregate", "count", "sum", "avg", "min", "max",
+    "subquery", "nested", "correlated", "exists",
+    "union", "intersect", "minus", "except",
+    "cte", "common table expression",
+    "window function", "partition", "rank", "row_number",
+    "primary key", "foreign key", "constraint", "unique", "index",
+    "referential integrity",
+    "er diagram", "erd", "entity", "attribute", "relationship", "cardinality", "schema",
+    "one-to-many", "many-to-many", "one-to-one",
+    "data model", "business rule",
+    "normalization", "normal form", "1nf", "2nf", "3nf", "bcnf",
+    "denormalization", "redundancy", "anomaly", "dependency",
+    "etl", "extract", "transform", "load", "warehouse", "data mart",
+    "olap", "oltp", "star schema", "snowflake",
+    "mongodb", "nosql", "json",
+    "pandas", "dataframe", "jupyter", "python", "colab",
+    "mysql", "postgresql", "workbench",
+    "api", "rest", "endpoint", "http",
+    "badm", "554", "exam", "test", "quiz", "assignment", "lab", "homework",
+    "grade", "syllabus", "lecture", "class", "professor", "sachdev"
+  ],
+  "template_for_your_course": [
+    "ADD YOUR COURSE-SPECIFIC KEYWORDS HERE",
+    "include subject terms, tool names, assignment types",
+    "also add professor name, course code, exam types",
+    "update whenever you add new drip campaign content"
+  ]
+}
