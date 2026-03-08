@@ -16,7 +16,15 @@
 
 ---
 
-IlliniClaw is the open architecture spec behind a WhatsApp-based AI teaching assistant built for BADM 554 (Database Management) at the University of Illinois. It connects professors and students through conversational AI, automated broadcasts, drip learning campaigns, and course knowledge base RAG.
+> *It's 11:47 PM on a Tuesday. A student is stuck on a SQL query. She's not going to open Canvas. She's not going to email the professor. She's definitely not going to wait until Thursday's office hours.*
+>
+> *She opens WhatsApp and types her question. Three seconds later, the AI Teaching Assistant responds with a guiding question rather than a direct answer.*
+>
+> *No app to download. No login. No friction. Just help, right where she already lives.*
+>
+> — [I Put an AI Teaching Assistant in My Students' WhatsApp](https://chatwithgpt.substack.com/p/i-put-an-ai-teaching-assistant-in)
+
+IlliniClaw is the open architecture spec behind that WhatsApp AI teaching assistant, built for BADM 554 (Database Management) at the University of Illinois. It connects professors and students through conversational AI, automated broadcasts, drip learning campaigns, and course knowledge base RAG.
 
 ## What This Is
 
