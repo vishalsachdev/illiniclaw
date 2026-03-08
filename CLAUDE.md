@@ -33,5 +33,8 @@ Changes to the spec should reflect the actual `badm554-bot` architecture. If the
 - Branding: Illini-colored logo with OpenClaw crab motif, social preview SVG, shields.io badges
 - Added "Powered by OpenClaw" section with link to openclaw.ai
 - Added Canvas MCP references (canvas-mcp.illinihunt.org) in README, AGENT-PROMPT.md, CUSTOMIZATION.md
-- Published to github.com/vishalsachdev/illiniclaw (8 commits)
+- Redesigned logo with OpenClaw lobster mascot (cartoon lobster with raised claws, mischievous grin, Illini orange on navy)
+- Added Substack article extract as opening blockquote in README (11:47 PM Tuesday night scene)
+- Linked to full article: chatwithgpt.substack.com/p/i-put-an-ai-teaching-assistant-in
+- Published to github.com/vishalsachdev/illiniclaw (12 commits)
 - Next: Have someone test the spec end-to-end. Set social preview image on GitHub (Settings → upload PNG export of social-preview.svg).
