@@ -1,6 +1,20 @@
-# IlliniClaw
+<p align="center">
+  <img src="assets/illiniclaw-logo.svg" alt="IlliniClaw" width="600"/>
+</p>
 
-**A replicable blueprint for building AI-powered WhatsApp teaching assistants.**
+<p align="center">
+  <a href="#quick-start"><img src="https://img.shields.io/badge/Feed_to_AI_Agent-Get_a_Working_Bot-E84A27?style=for-the-badge&labelColor=13294B" alt="Feed to AI Agent → Get a Working Bot"/></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-20+-13294B?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js 20+"/>
+  <img src="https://img.shields.io/badge/WhatsApp-clawdbot-13294B?style=flat-square&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/>
+  <img src="https://img.shields.io/badge/AI-Claude_%7C_OpenAI-13294B?style=flat-square&logo=openai&logoColor=white" alt="AI"/>
+  <img src="https://img.shields.io/badge/DB-PostgreSQL-13294B?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/License-MIT-E84A27?style=flat-square" alt="MIT License"/>
+</p>
+
+---
 
 IlliniClaw is the open architecture spec behind a WhatsApp-based AI teaching assistant built for BADM 554 (Database Management) at the University of Illinois. It connects professors and students through conversational AI, automated broadcasts, drip learning campaigns, and course knowledge base RAG.
 
