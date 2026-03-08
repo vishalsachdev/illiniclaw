@@ -30,5 +30,8 @@ Changes to the spec should reflect the actual `badm554-bot` architecture. If the
 - Files: AGENT-PROMPT.md (complete build spec), CUSTOMIZATION.md, 5 reference files (schema, env, SOUL.md template, drip campaign example, guardrails topics)
 - Initial mistake: first version was based on wrong repo (`badm554-survey-bot`). Trashed and rebuilt from correct source.
 - Added contributors (Keshav Dalmia, Ash Castelino)
-- Published to github.com/vishalsachdev/illiniclaw
-- Next: Have someone test the spec end-to-end (feed AGENT-PROMPT.md to an AI agent, verify it builds a working system)
+- Branding: Illini-colored logo with OpenClaw crab motif, social preview SVG, shields.io badges
+- Added "Powered by OpenClaw" section with link to openclaw.ai
+- Added Canvas MCP references (canvas-mcp.illinihunt.org) in README, AGENT-PROMPT.md, CUSTOMIZATION.md
+- Published to github.com/vishalsachdev/illiniclaw (8 commits)
+- Next: Have someone test the spec end-to-end. Set social preview image on GitHub (Settings → upload PNG export of social-preview.svg).
