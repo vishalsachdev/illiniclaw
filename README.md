@@ -98,6 +98,8 @@ Built on [OpenClaw](https://openclaw.ai) — a personal AI assistant that runs o
 
 Built by [Vishal Sachdev](https://github.com/vishalsachdev) at the University of Illinois Gies College of Business for BADM 554 (Database Management), Spring 2026. Serving 36 students with 10,000+ WhatsApp interactions.
 
+Read the full story: [I Put an AI Teaching Assistant in My Students' WhatsApp — Here's Why](https://chatwithgpt.substack.com/p/i-put-an-ai-teaching-assistant-in)
+
 ## Contributors
 
 - [Vishal Sachdev](https://github.com/vishalsachdev)
