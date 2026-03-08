@@ -5,10 +5,6 @@
       <stop offset="50%" style="stop-color:#13294B"/>
       <stop offset="100%" style="stop-color:#1B3A6B"/>
     </linearGradient>
-    <linearGradient id="claw" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#E84A27"/>
-      <stop offset="100%" style="stop-color:#FF6B47"/>
-    </linearGradient>
   </defs>
 
   <!-- Background -->
@@ -32,11 +28,16 @@
     <line x1="1120" y1="0" x2="1120" y2="640"/>
   </g>
 
-  <!-- Large claw marks (decorative, left side) -->
-  <g transform="translate(80, 60) scale(1.8)" opacity="0.15">
-    <path d="M30 10 Q35 60 20 170 Q18 185 25 190 Q32 185 35 170 Q50 60 45 10 Z" fill="#E84A27"/>
-    <path d="M65 5 Q70 55 55 175 Q53 190 60 195 Q67 190 70 175 Q85 55 80 5 Z" fill="#E84A27"/>
-    <path d="M100 10 Q105 60 90 170 Q88 185 95 190 Q102 185 105 170 Q120 60 115 10 Z" fill="#E84A27"/>
+  <!-- Large decorative claw creature (top-left, faded) -->
+  <g transform="translate(120, 80) scale(2.5)" opacity="0.1">
+    <circle cx="72" cy="100" r="44" fill="#E84A27"/>
+    <circle cx="72" cy="65" r="28" fill="#E84A27"/>
+    <circle cx="55" cy="50" r="12" fill="#E84A27"/>
+    <circle cx="89" cy="50" r="12" fill="#E84A27"/>
+    <path d="M10 30 C20 38 28 48 38 58" stroke="#E84A27" stroke-width="6" stroke-linecap="round" fill="none"/>
+    <path d="M134 30 C124 38 116 48 106 58" stroke="#E84A27" stroke-width="6" stroke-linecap="round" fill="none"/>
+    <path d="M35 120 C22 128 12 138 8 148" stroke="#E84A27" stroke-width="4" stroke-linecap="round" fill="none"/>
+    <path d="M109 120 C122 128 132 138 136 148" stroke="#E84A27" stroke-width="4" stroke-linecap="round" fill="none"/>
   </g>
 
   <!-- Title -->
@@ -53,7 +54,7 @@
   <rect x="520" y="355" width="240" height="3" rx="1.5" fill="#E84A27" opacity="0.7"/>
 
   <!-- Feature pills -->
-  <g font-family="'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#8899BB">
+  <g font-family="'Helvetica Neue', Arial, sans-serif" font-size="16">
     <rect x="270" y="400" width="140" height="36" rx="18" fill="#1E3D6B" stroke="#2A4D7B" stroke-width="1"/>
     <text x="340" y="423" text-anchor="middle" fill="#AAC0DD">Socratic AI</text>
 
@@ -70,8 +71,11 @@
   <!-- Bottom bar -->
   <rect x="0" y="620" width="1280" height="20" fill="#E84A27" opacity="0.8"/>
 
-  <!-- University of Illinois badge -->
-  <text x="640" y="520" font-family="'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#556B8A" text-anchor="middle" letter-spacing="3">
+  <!-- Powered by + University -->
+  <text x="640" y="510" font-family="'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#667B9A" text-anchor="middle" letter-spacing="1">
+    Powered by OpenClaw
+  </text>
+  <text x="640" y="545" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#556B8A" text-anchor="middle" letter-spacing="3">
     UNIVERSITY OF ILLINOIS · GIES COLLEGE OF BUSINESS
   </text>
 </svg>

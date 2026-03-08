@@ -90,6 +90,10 @@ Professor messages go through a two-call LLM pattern: fast intent classification
 ### Student Guardrails (Defense in Depth)
 Three layers run in sequence: (1) jailbreak detection — blocks prompt injection, role manipulation, file operation attempts; (2) cheating prevention — redirects "show answer" to guided hints; (3) off-topic filtering — checks against course keyword list. Blocked messages still get helpful, educational responses.
 
+## Powered By
+
+Built on [OpenClaw](https://openclaw.ai) — a personal AI assistant that runs on your own devices and answers you on channels you already use (WhatsApp, Telegram, Slack, Discord, and more). IlliniClaw uses OpenClaw's gateway and embedded agent runner for WhatsApp messaging, AI-powered conversations, and per-student session isolation.
+
 ## Origin
 
 Built by [Vishal Sachdev](https://github.com/vishalsachdev) at the University of Illinois Gies College of Business for BADM 554 (Database Management), Spring 2026. Serving 36 students with 10,000+ WhatsApp interactions.
