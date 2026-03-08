@@ -63,7 +63,7 @@ Professor (Dashboard + WhatsApp) ──► Express Server ──► Clawdbot Gat
 - **Drip campaigns** — Scheduled study tip broadcasts with idempotency and crash-safe checkpointing
 - **Student guardrails** — Blocks jailbreaks, cheating attempts, and off-topic messages
 - **Broadcast confirmation** — Professor must approve every broadcast (YES/NO within 10 min)
-- **Canvas LMS integration** — Fetch assignments, send reminders
+- **Canvas LMS integration** — Fetch assignments, send reminders (see also [Canvas MCP](http://canvas-mcp.illinihunt.org/) for AI-agent-native Canvas access)
 - **Session isolation** — Per-student conversation context (2-hour TTL)
 - **Self-chat mode** — Bot runs on professor's own WhatsApp number
 

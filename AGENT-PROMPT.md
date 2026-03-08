@@ -427,6 +427,8 @@ The SOUL.md includes a topic → file mapping table so the AI knows which file t
 - 24-hour cache with date-based invalidation
 - **Security**: `CANVAS_COURSE_ID` is mandatory — restricts API to a single course
 
+**Alternative**: For AI-agent-native Canvas access (grading, rubrics, discussions, peer reviews, course audits), see [Canvas MCP](http://canvas-mcp.illinihunt.org/) — an MCP server that gives AI coding agents full Canvas API access.
+
 ### 5.12 Auth & Security
 
 | Feature | Implementation |

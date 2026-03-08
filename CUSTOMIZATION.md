@@ -88,6 +88,8 @@ CANVAS_BASE_URL=https://canvas.youruniversity.edu
 CANVAS_COURSE_ID=12345  # REQUIRED: restricts API to this course only
 ```
 
+For deeper Canvas integration (grading, rubrics, discussions, peer reviews, course audits), see [Canvas MCP](http://canvas-mcp.illinihunt.org/) — an MCP server that gives AI agents full Canvas API access.
+
 ## 7. Student Sync (Optional)
 
 **Location**: `scripts/sync-students-from-sheet.js`
