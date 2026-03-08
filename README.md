@@ -2,7 +2,7 @@
 
 **A replicable blueprint for building AI-powered WhatsApp teaching assistants.**
 
-IlliniClaw is the open architecture spec behind [BADM 554 Bot](https://github.com/gies-ai-experiments/badm554-bot) — a WhatsApp-based AI teaching assistant that connects professors and students through conversational AI, automated broadcasts, drip learning campaigns, and course knowledge base RAG.
+IlliniClaw is the open architecture spec behind a WhatsApp-based AI teaching assistant built for BADM 554 (Database Management) at the University of Illinois. It connects professors and students through conversational AI, automated broadcasts, drip learning campaigns, and course knowledge base RAG.
 
 ## What This Is
 
