@@ -80,6 +80,12 @@ Three layers run in sequence: (1) jailbreak detection — blocks prompt injectio
 
 Built by [Vishal Sachdev](https://github.com/vishalsachdev) at the University of Illinois Gies College of Business for BADM 554 (Database Management), Spring 2026. Serving 36 students with 10,000+ WhatsApp interactions.
 
+## Contributors
+
+- [Vishal Sachdev](https://github.com/vishalsachdev)
+- [Keshav Dalmia](https://github.com/keshavdalmia10)
+- [Ash Castelino](https://github.com/ashcastelinocs124)
+
 ## License
 
 MIT
